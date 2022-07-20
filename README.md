@@ -4,7 +4,10 @@
 ![ShielddoProjeto](https://img.shields.io/badge/Linguagem-Escolhida-00c4cc.svg?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/github/repo-size/adrianoleitedasilva/Modelo?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/tokei/lines/github/adrianoleitedasilva/Modelo?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/github/directory-file-count/adrianoleitedasilva/Modelo?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/github/stars/adrianoleitedasilva/Modelo?style=for-the-badge) 
+![ShielddoProjeto](https://img.shields.io/github/forks/adrianoleitedasilva/Modelo?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/github/issues-pr/adrianoleitedasilva/Modelo?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/github/last-commit/adrianoleitedasilva/Modelo?style=for-the-badge)
 
 <!-- Envie a imagem por meio de uma ISSUE e cole o link aqui nessa linha abaixo -->
